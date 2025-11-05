@@ -1,2 +1,2 @@
 # myos
-updateing...
+已经被废除的库
